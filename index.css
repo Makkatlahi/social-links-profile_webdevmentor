@@ -1,0 +1,44 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  font-size: 10px; //reset rem from 12px -> 10px
+}
+
+button {
+  font: inherit;
+  border: initial;
+  outline: initial; /* create alternative for focus state */
+  background-color: initial;
+}
+
+.container {
+  width: 326px;
+  height: 522px;
+  background-color: hsl(0, 0%, 20%);
+}
+
+.profile {
+}
+
+.profile__pic {
+}
+
+.profile__name {
+}
+
+.profile__location {
+}
+
+.profile__bio {
+}
+
+.buttons {
+}
+
+.button {
+}
