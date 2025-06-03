@@ -85,7 +85,8 @@ button {
   font-weight: 600;
 }
 
-.button:hover {
+.button:hover,
+.button:focus {
   background-color: hsl(75, 94%, 57%);
   color: hsl(0, 0%, 20%);
   cursor: pointer;
