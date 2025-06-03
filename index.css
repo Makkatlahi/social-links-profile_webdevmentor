@@ -92,7 +92,7 @@ button {
   font-weight: 600;
 }
 
-@media (max-width: 144.5rem) {
+@media (min-width: 37.5rem) {
   .preview {
     width: 38.5rem;
     height: 61.2rem;
